@@ -16,8 +16,8 @@ https://github.com/engTasneemmaq/basic-express-server/actions
 https://github.com/engTasneemmaq/basic-express-server/pulls
 
 
-🖇 🖊 Notes: ⏭ ⏭
-1.Create basic-express-server repo .<b>
+🖇 🖊 Notes: ⏭ ⏭<br>
+1.Create basic-express-server repo .<br>
 2.Create new branch >> git checkout -b "dev"<br>
 3.npm init -y<br>
 4.npm i express dotenv <br>
